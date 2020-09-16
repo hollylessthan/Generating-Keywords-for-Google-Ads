@@ -2,7 +2,7 @@
 
 || Introduction
 
-In this project, I evaluate how different levels of debts affect banks' recovery strategies
+In this project, I created the keywords of the products for matching customers' search. I believe this is a helpful practice toward digital marketing
 
 || Languages & Tools
 
@@ -10,11 +10,11 @@ Python & Jupyter Notebook
 
 || Methodologies
 
-First, I explored the data, and found that the bank has different recovery strategy based on the the expected recovery amount. The threshold are set to be $1000. A level higher, $50 more was set to run the strategy.
+First, I build a list of words that the customers may type in an searching engine. The customers I targeted here are the one favorate low-cost product.
 
-Then, I inspected that if other factors such as ages and genders affect the actual recovery amount, by visualzing using scatter plots and conducting Kruskal-Wallis test and chi-square test.
+Then, I combined the keywords with the product names to create a keyword list. Also, I converted it into a pandas DataFrame.
 
-Last but not least, I build a regression model to test whether the expected recovery amount (X) and the actual recovery amount (y) are correlated. I also added a threshold to see whether the $50 is approariate for running per higher strategy.
+Last but not least, I applied two types of keyword match. One is exact match, another match type is broad match. All the above efforts get me to the following marketing solutions: the sample keywords -> ads -> landing pages
 
 || Project Resources & Data
 
