@@ -10,7 +10,7 @@ Python & Jupyter Notebook
 
 || Methodologies
 
-First, I build a list of words that the customers may type in an searching engine. The customers I targeted here are the one favorate low-cost product.
+First, I built a list of words that the customers may type in an searching engine. The customers I targeted here are the one favorate low-cost product.
 
 Then, I combined the keywords with the product names to create a keyword list. Also, I converted it into a pandas DataFrame.
 
